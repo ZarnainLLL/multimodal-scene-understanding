@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# API keys
+.env
+
+# Media folders — videos
+videos/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pth
+
+# YOLO  weights
+*.pt
+
+# VS Code
+.vscode/

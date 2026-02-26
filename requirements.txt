@@ -1,0 +1,9 @@
+#  CV
+ultralytics      
+opencv-python
+
+# LLM 
+google-genai>=1.0.0
+
+# Util
+python-dotenv

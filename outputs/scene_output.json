@@ -1,0 +1,357 @@
+{
+  "video_info": {
+    "fps": 30.0,
+    "width": 1280,
+    "height": 720
+  },
+  "summary_counts": {
+    "car": 25,
+    "bus": 4,
+    "truck": 2,
+    "person": 3
+  },
+  "objects": [
+    {
+      "id": "Car_1",
+      "class": "car",
+      "first_seen": 0.0,
+      "last_seen": 10.0,
+      "duration_sec": 10.0,
+      "frame_count": 21,
+      "movement": "remained in the center of the frame",
+      "speed_norm_per_sec": 0.0142
+    },
+    {
+      "id": "Car_2",
+      "class": "car",
+      "first_seen": 0.0,
+      "last_seen": 10.0,
+      "duration_sec": 10.0,
+      "frame_count": 17,
+      "movement": "moved from right to center",
+      "speed_norm_per_sec": 0.0213
+    },
+    {
+      "id": "Car_3",
+      "class": "car",
+      "first_seen": 0.0,
+      "last_seen": 10.0,
+      "duration_sec": 10.0,
+      "frame_count": 20,
+      "movement": "remained in the right of the frame",
+      "speed_norm_per_sec": 0.0674
+    },
+    {
+      "id": "Car_4",
+      "class": "car",
+      "first_seen": 0.0,
+      "last_seen": 10.0,
+      "duration_sec": 10.0,
+      "frame_count": 21,
+      "movement": "remained in the center of the frame",
+      "speed_norm_per_sec": 0.0188
+    },
+    {
+      "id": "Car_5",
+      "class": "car",
+      "first_seen": 0.0,
+      "last_seen": 9.5,
+      "duration_sec": 9.5,
+      "frame_count": 20,
+      "movement": "remained in the right of the frame",
+      "speed_norm_per_sec": 0.0282
+    },
+    {
+      "id": "Car_6",
+      "class": "car",
+      "first_seen": 0.0,
+      "last_seen": 10.0,
+      "duration_sec": 10.0,
+      "frame_count": 21,
+      "movement": "moved from center to right",
+      "speed_norm_per_sec": 0.0222
+    },
+    {
+      "id": "Bus_1",
+      "class": "bus",
+      "first_seen": 0.0,
+      "last_seen": 7.5,
+      "duration_sec": 7.5,
+      "frame_count": 11,
+      "movement": "moved from right to center",
+      "speed_norm_per_sec": 0.0292
+    },
+    {
+      "id": "Car_7",
+      "class": "car",
+      "first_seen": 0.0,
+      "last_seen": 10.0,
+      "duration_sec": 10.0,
+      "frame_count": 21,
+      "movement": "moved from left to center",
+      "speed_norm_per_sec": 0.0155
+    },
+    {
+      "id": "Car_8",
+      "class": "car",
+      "first_seen": 0.0,
+      "last_seen": 8.5,
+      "duration_sec": 8.5,
+      "frame_count": 16,
+      "movement": "remained in the left of the frame",
+      "speed_norm_per_sec": 0.0238
+    },
+    {
+      "id": "Car_9",
+      "class": "car",
+      "first_seen": 0.0,
+      "last_seen": 9.0,
+      "duration_sec": 9.0,
+      "frame_count": 11,
+      "movement": "remained in the center of the frame",
+      "speed_norm_per_sec": 0.0314
+    },
+    {
+      "id": "Bus_2",
+      "class": "bus",
+      "first_seen": 0.0,
+      "last_seen": 10.0,
+      "duration_sec": 10.0,
+      "frame_count": 12,
+      "movement": "remained in the center of the frame",
+      "speed_norm_per_sec": 0.017
+    },
+    {
+      "id": "Car_10",
+      "class": "car",
+      "first_seen": 0.0,
+      "last_seen": 9.0,
+      "duration_sec": 9.0,
+      "frame_count": 11,
+      "movement": "remained in the center of the frame",
+      "speed_norm_per_sec": 0.0578
+    },
+    {
+      "id": "Car_11",
+      "class": "car",
+      "first_seen": 0.0,
+      "last_seen": 9.5,
+      "duration_sec": 9.5,
+      "frame_count": 20,
+      "movement": "remained in the right of the frame",
+      "speed_norm_per_sec": 0.0234
+    },
+    {
+      "id": "Car_12",
+      "class": "car",
+      "first_seen": 0.0,
+      "last_seen": 9.0,
+      "duration_sec": 9.0,
+      "frame_count": 19,
+      "movement": "remained in the center of the frame",
+      "speed_norm_per_sec": 0.0247
+    },
+    {
+      "id": "Truck_1",
+      "class": "truck",
+      "first_seen": 0.0,
+      "last_seen": 1.0,
+      "duration_sec": 1.0,
+      "frame_count": 2,
+      "movement": "remained in the center of the frame",
+      "speed_norm_per_sec": 0.014
+    },
+    {
+      "id": "Bus_3",
+      "class": "bus",
+      "first_seen": 0.0,
+      "last_seen": 10.0,
+      "duration_sec": 10.0,
+      "frame_count": 18,
+      "movement": "remained in the center of the frame",
+      "speed_norm_per_sec": 0.0266
+    },
+    {
+      "id": "Car_13",
+      "class": "car",
+      "first_seen": 0.0,
+      "last_seen": 9.0,
+      "duration_sec": 9.0,
+      "frame_count": 17,
+      "movement": "remained in the right of the frame",
+      "speed_norm_per_sec": 0.0274
+    },
+    {
+      "id": "Bus_4",
+      "class": "bus",
+      "first_seen": 0.0,
+      "last_seen": 10.0,
+      "duration_sec": 10.0,
+      "frame_count": 18,
+      "movement": "remained in the center of the frame",
+      "speed_norm_per_sec": 0.0155
+    },
+    {
+      "id": "Car_14",
+      "class": "car",
+      "first_seen": 0.0,
+      "last_seen": 8.5,
+      "duration_sec": 8.5,
+      "frame_count": 15,
+      "movement": "remained in the center of the frame",
+      "speed_norm_per_sec": 0.0387
+    },
+    {
+      "id": "Car_15",
+      "class": "car",
+      "first_seen": 0.0,
+      "last_seen": 1.5,
+      "duration_sec": 1.5,
+      "frame_count": 2,
+      "movement": "remained in the center of the frame",
+      "speed_norm_per_sec": 0.0234
+    },
+    {
+      "id": "Person_1",
+      "class": "person",
+      "first_seen": 0.5,
+      "last_seen": 3.5,
+      "duration_sec": 3.0,
+      "frame_count": 2,
+      "movement": "remained in the left of the frame",
+      "speed_norm_per_sec": 0.0007
+    },
+    {
+      "id": "Car_16",
+      "class": "car",
+      "first_seen": 2.0,
+      "last_seen": 10.0,
+      "duration_sec": 8.0,
+      "frame_count": 17,
+      "movement": "remained in the right of the frame",
+      "speed_norm_per_sec": 0.041
+    },
+    {
+      "id": "Car_17",
+      "class": "car",
+      "first_seen": 4.0,
+      "last_seen": 10.0,
+      "duration_sec": 6.0,
+      "frame_count": 13,
+      "movement": "remained in the left of the frame",
+      "speed_norm_per_sec": 0.014
+    },
+    {
+      "id": "Person_2",
+      "class": "person",
+      "first_seen": 4.0,
+      "last_seen": 5.5,
+      "duration_sec": 1.5,
+      "frame_count": 4,
+      "movement": "remained in the right of the frame",
+      "speed_norm_per_sec": 0.061
+    },
+    {
+      "id": "Car_18",
+      "class": "car",
+      "first_seen": 4.0,
+      "last_seen": 10.0,
+      "duration_sec": 6.0,
+      "frame_count": 13,
+      "movement": "remained in the right of the frame",
+      "speed_norm_per_sec": 0.0396
+    },
+    {
+      "id": "Truck_2",
+      "class": "truck",
+      "first_seen": 4.5,
+      "last_seen": 7.5,
+      "duration_sec": 3.0,
+      "frame_count": 6,
+      "movement": "remained in the center of the frame",
+      "speed_norm_per_sec": 0.0175
+    },
+    {
+      "id": "Car_19",
+      "class": "car",
+      "first_seen": 5.5,
+      "last_seen": 10.0,
+      "duration_sec": 4.5,
+      "frame_count": 10,
+      "movement": "remained in the center of the frame",
+      "speed_norm_per_sec": 0.0138
+    },
+    {
+      "id": "Car_20",
+      "class": "car",
+      "first_seen": 6.0,
+      "last_seen": 10.0,
+      "duration_sec": 4.0,
+      "frame_count": 6,
+      "movement": "remained in the right of the frame",
+      "speed_norm_per_sec": 0.0634
+    },
+    {
+      "id": "Car_21",
+      "class": "car",
+      "first_seen": 6.0,
+      "last_seen": 7.5,
+      "duration_sec": 1.5,
+      "frame_count": 4,
+      "movement": "remained in the center of the frame",
+      "speed_norm_per_sec": 0.0513
+    },
+    {
+      "id": "Car_22",
+      "class": "car",
+      "first_seen": 7.0,
+      "last_seen": 10.0,
+      "duration_sec": 3.0,
+      "frame_count": 7,
+      "movement": "remained in the right of the frame",
+      "speed_norm_per_sec": 0.0421
+    },
+    {
+      "id": "Person_3",
+      "class": "person",
+      "first_seen": 7.0,
+      "last_seen": 9.5,
+      "duration_sec": 2.5,
+      "frame_count": 6,
+      "movement": "remained in the left of the frame",
+      "speed_norm_per_sec": 0.0069
+    },
+    {
+      "id": "Car_23",
+      "class": "car",
+      "first_seen": 8.0,
+      "last_seen": 10.0,
+      "duration_sec": 2.0,
+      "frame_count": 5,
+      "movement": "remained in the right of the frame",
+      "speed_norm_per_sec": 0.0264
+    },
+    {
+      "id": "Car_24",
+      "class": "car",
+      "first_seen": 9.0,
+      "last_seen": 10.0,
+      "duration_sec": 1.0,
+      "frame_count": 2,
+      "movement": "remained in the right of the frame",
+      "speed_norm_per_sec": 0.0292
+    },
+    {
+      "id": "Car_25",
+      "class": "car",
+      "first_seen": 9.5,
+      "last_seen": 10.0,
+      "duration_sec": 0.5,
+      "frame_count": 2,
+      "movement": "remained in the right of the frame",
+      "speed_norm_per_sec": 0.0328
+    }
+  ],
+  "anomalies": [],
+  "llm_summary": "The video displays moderate traffic over 10 seconds, involving 25 cars, 4 buses, and 2 trucks, with 3 pedestrians also present. While many vehicles remained within their initial horizontal zones, several cars and one bus actively moved across zones, such as from right to center or center to right. No anomalies were detected in the scene."
+}
