@@ -2,6 +2,18 @@
 
 An end-to-end pipeline that takes a video, detects and tracks objects using YOLOv8, serializes the spatial/temporal data, and generates a natural language scene summary using Gemini.
 
+## Demo
+
+### Input Video
+The pipeline was tested on this publicly available traffic footage:
+🎬 [Stock Traffic Video](https://www.youtube.com/watch?v=CftLBPI1Ga4)
+
+### Output — Preview
+![Annotated Frame](outputs/Screenshot 2026-02-26 093953.png)
+
+### Output — Scene JSON
+![Scene JSON](outputs/scene_output.json)
+
 ---
 
 ## Project Structure
