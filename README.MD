@@ -45,7 +45,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-Add your Gemini API key to `.env` (get one free at https://aistudio.google.com/app/apikey):
+Create a file named .env in the root directory and add your Gemini API key to `.env` (get one at https://aistudio.google.com/app/apikey):
 ```
 GEMINI_API_KEY=your_key_here
 ```
