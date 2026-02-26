@@ -8,9 +8,6 @@ An end-to-end pipeline that takes a video, detects and tracks objects using YOLO
 The pipeline was tested on this publicly available traffic footage:
 🎬 [Stock Traffic Video](https://www.youtube.com/watch?v=CftLBPI1Ga4)
 
-### Output — Preview
-![Annotated Frame](outputs/Screenshot 2026-02-26 093953.png)
-
 ### Output — Scene JSON
 ![Scene JSON](outputs/scene_output.json)
 
